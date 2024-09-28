@@ -1,7 +1,8 @@
 <!-- 가운데 정렬된 파도 애니메이션 이미지를 추가합니다. -->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3700ff,100:050000&height=180&text=Fargoewave&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-</div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:54469b,100:0f3566&height=240&text=FargoeWave&animation=&fontColor=ffffff&fontSize=40" />
+    </div>
+    
 
 
 <div align="center"> 
