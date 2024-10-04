@@ -22,5 +22,13 @@
 
     
 
-
+<!-- 통계(Stats) 섹션 시작 -->
+<div align="center"> 
+    <!-- "Stats" 제목 -->
+    <h2 style="border: none; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <!-- 깃허브 프로필 통계 데이터를 표시하는 이미지. vercel의 GitHub Readme Stats API를 사용하여 프로필 통계를 표시합니다. -->
+    <div align="center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=fargoe&bg_color=60,2e538e,000000&title_color=ffffff&text_color=ffffff" />
+    </div> 
+</div>
 
